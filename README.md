@@ -1,6 +1,4 @@
 # 🏄‍♂️ David Prat
-==================================================================================================================================
-
 **`I Am Cloud Architect And Big Data Expert`**
 
 * With more than 13 years of experience in the IT sector, I’m specialized in designing, implementing and running all kinds of IT solutions on Hybrid environments (On-premises & Cloud).<br>
