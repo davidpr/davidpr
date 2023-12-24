@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Prat
+# 🏄‍♂️ David Prat
 ==================================================================================================================================
 
 **`I Am Cloud Architect And Big Data Expert`**
 
 * With more than 13 years of experience in the IT sector, I’m specialized in designing, implementing and running all kinds of IT solutions on Hybrid environments (On-premises & Cloud).<br>
-* I can translate your business idea into the IT systems needed wether they involve Big Data, Scalable web services, Mobile applications or AI models. I optimize the solution for cost, scalability and reliability.<br>
+I can translate your business idea into the IT systems needed wether they involve Big Data, Scalable web services, Mobile applications or AI models. I optimize the solution for cost, scalability and reliability.<br>
 * I advocate for the use of Cloud Native projects because they are of high quality and very compatible technologies. Their use can make to companies to get huge savings in comparison to use cloud PaaS solutions. <br>
 * I’m also very keen on promoting use of free libraries for Big Data storing and computing as well as for dealing with Deep Learning models. I bet on these technologies because their community is huge and because they are more likely to avoid the vendor locking problem.<br>
 * You’ll always find in my [channel](https://www.youtube.com/@davidpratr/videos) tutorials for the latest technologies that are going to prevail in the market for years. I only recommend what I’m sure it will be best for my clients after I already have made tests and PoCs.<br>
