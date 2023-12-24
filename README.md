@@ -22,9 +22,9 @@ I can translate your business idea into the IT systems needed wether they involv
    
 * 🖥️  See my portfolio at [https://www.davidprat.com/portfolio/](http://www.davidprat.com)
 * ✉️  You can contact me at [david.prat@gmail.com](mailto:david.prat@gmail.com)
-* 🤝  I'm open to collaborating on Data, AI and DevSecOps projects
-* 🤝 [website]: https://www.davidprat.com
-* 🤝 [youtube]: https://youtube.com/davidpratr
+* 🤝 I'm open to collaborating on Data, AI and DevSecOps projects
+* 👨‍💻 website: https://www.davidprat.com
+* 📺 youtube: https://youtube.com/davidpratr
   
 ### Skills
 
