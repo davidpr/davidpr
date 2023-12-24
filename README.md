@@ -3,7 +3,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I Am Cloud Architect And Big Data Expert
 ----------------------------------------
+With more than 13 years of experience in the IT sector, I’m specialized in designing, implementing and running all kinds of IT solutions on Hybrid environments (On-premises & Cloud).
+I can translate your business idea into the IT systems needed wether they involve Big Data, Scalable web services, Mobile applications or AI models. I optimize the solution for cost, scalability and reliability.
+I advocate for the use of Cloud Native projects because they are of high quality and very compatible technologies. Their use can make to companies to get huge savings in comparison to use cloud PaaS solutions. 
+I’m also very keen on promoting use of free libraries for Big Data storing and computing as well as for dealing with Deep Learning models. I bet on these technologies because their community is huge and because they are more likely to avoid the vendor locking problem.
+You’ll always find in my "[channel][https://www.youtube.com/@davidpratr/videos]" tutorials for the latest technologies that are going to prevail in the market for years. I only recommend what I’m sure it will be best for my clients after I already have made tests and PoCs. 
 
+   <p align="left">
+      <a href="https://www.youtube.com/c/davidpratr?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCTzCmwXp10MJ5GI7Irr2ufQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/davidpratr">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCTzCmwXp10MJ5GI7Irr2ufQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/davidpr?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/davidpr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/davidpr?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/davidpr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+   
 * 🖥️  See my portfolio at [https://www.davidprat.com/portfolio/](http://www.davidprat.com)
 * ✉️  You can contact me at [david.prat@gmail.com](mailto:david.prat@gmail.com)
 * 🤝  I'm open to collaborating on Data, AI and DevSecOps projects
