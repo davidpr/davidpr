@@ -23,7 +23,9 @@ I can translate your business idea into the IT systems needed wether they involv
 * 🖥️  See my portfolio at [https://www.davidprat.com/portfolio/](http://www.davidprat.com)
 * ✉️  You can contact me at [david.prat@gmail.com](mailto:david.prat@gmail.com)
 * 🤝  I'm open to collaborating on Data, AI and DevSecOps projects
-
+* 🤝 [website]: https://www.davidprat.com
+* 🤝 [youtube]: https://youtube.com/davidpratr
+  
 ### Skills
 
 
@@ -47,5 +49,4 @@ I can translate your business idea into the IT systems needed wether they involv
 
 <a href="http://www.github.com/davidpr"><img src="https://github-readme-stats.vercel.app/api?username=davidpr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidpr's GitHub stats" /></a>
 
-* [website]: https://www.davidprat.com
-* [youtube]: https://youtube.com/davidpratr
+
