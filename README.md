@@ -39,7 +39,12 @@ I can translate your business idea into the IT systems needed wether they involv
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![How to pass the CKAD exam](https://ytcards.demolab.com/?id=Dv-PdB-v5ls&title=How+to+pass+the+CKAD+exam&lang=en&timestamp=1706859661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=908 "How to pass the CKAD exam")](https://www.youtube.com/watch?v=Dv-PdB-v5ls)
+[![How to pass the CKA exam](https://ytcards.demolab.com/?id=TUzi5dNO6wU&title=How+to+pass+the+CKA+exam&lang=en&timestamp=1701599611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=709 "How to pass the CKA exam")](https://www.youtube.com/watch?v=TUzi5dNO6wU)
+[![Grafana operator explained and installation](https://ytcards.demolab.com/?id=Vo4nylLCFnQ&title=Grafana+operator+explained+and+installation&lang=en&timestamp=1696605698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1274 "Grafana operator explained and installation")](https://www.youtube.com/watch?v=Vo4nylLCFnQ)
+[![Kustomize explained and tutorial](https://ytcards.demolab.com/?id=P13TzWOXvLQ&title=Kustomize+explained+and+tutorial&lang=en&timestamp=1693596914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=506 "Kustomize explained and tutorial")](https://www.youtube.com/watch?v=P13TzWOXvLQ)
+[![Learn Skaffold and how is it used in GitOps](https://ytcards.demolab.com/?id=xf-Ph1SW4j8&title=Learn+Skaffold+and+how+is+it+used+in+GitOps&lang=en&timestamp=1691912064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=939 "Learn Skaffold and how is it used in GitOps")](https://www.youtube.com/watch?v=xf-Ph1SW4j8)
+[![Jenkins webhook with Gitlab and Docker](https://ytcards.demolab.com/?id=peo-Cc6qPOM&title=Jenkins+webhook+with+Gitlab+and+Docker&lang=en&timestamp=1691613198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=690 "Jenkins webhook with Gitlab and Docker")](https://www.youtube.com/watch?v=peo-Cc6qPOM)
 <!-- END YOUTUBE-CARDS -->
 
 ### Badges
