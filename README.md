@@ -1,7 +1,7 @@
 # 🏄‍♂️ David Prat
 **`I Am Cloud Architect And Big Data Expert`**
 
-* With more than 13 years of experience in the IT sector, I’m specialized in designing, implementing and running all kinds of IT solutions on Hybrid environments (On-premises & Cloud).<br>
+* With more than 15 years of experience in the IT sector, I’m specialized in designing, implementing and running all kinds of IT solutions on Hybrid environments (On-premises & Cloud).<br>
 I can translate your business idea into the IT systems needed wether they involve Big Data, Scalable web services, Mobile applications or AI models. I optimize the solution for cost, scalability and reliability.<br>
 * I advocate for the use of Cloud Native projects because they are of high quality and very compatible technologies. Their use can make to companies to get huge savings in comparison to use cloud PaaS solutions. <br>
 * I’m also very keen on promoting use of free libraries for Big Data storing and computing as well as for dealing with Deep Learning models. I bet on these technologies because their community is huge and because they are more likely to avoid the vendor locking problem.<br>
