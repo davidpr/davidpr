@@ -18,7 +18,7 @@ I can translate your business idea into the IT systems needed wether they involv
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/davidpr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
-* 🖥️  See my portfolio at [https://www.davidprat.com/portfolio/](http://www.davidprat.com)
+* 🖥️  See my portfolio at [https://davidprat.com/#portfolio](http://www.davidprat.com)
 * 🤝 I'm open to collaborating on Data, AI and DevSecOps projects
 * 👨‍💻 website: https://www.davidprat.com
 * 📺 youtube: https://youtube.com/davidpratr
